@@ -40,13 +40,16 @@ npm run dev
 
 ## Screenshots
 ### Wallet connected
-![Wallet connected](./screenshots/wallet-connected.png)
+<img width="892" height="352" alt="image" src="https://github.com/user-attachments/assets/86d0ed77-89a6-463d-be8a-0e305ec0e64f" />
+
 
 ### Balance displayed
-![Balance displayed](./screenshots/balance.png)
+<img width="875" height="427" alt="image" src="https://github.com/user-attachments/assets/390fe421-bdc9-499d-a9f8-455629ac2b9f" />
+
 
 ### Successful transaction
-![Successful transaction](./screenshots/transaction-success.png)
+<img width="952" height="1007" alt="image" src="https://github.com/user-attachments/assets/eff30485-e84c-491d-83bc-e1f724508d7a" />
+
 
 ### Transaction feedback
-![Transaction feedback](./screenshots/transaction-feedback.png)
+<img width="875" height="437" alt="image" src="https://github.com/user-attachments/assets/bb370a93-8d82-4e4b-b75e-758b7e2103f3" />
